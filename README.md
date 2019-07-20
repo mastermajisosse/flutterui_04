@@ -1,6 +1,10 @@
 # flutteui_04
 
-A new Flutter project.
+Flutter ui 4.
+ 
+ ![alt text](https://github.com/mastermajisosse/flutterui_04/blob/master/assets/3.PNG)
+ ![alt text](https://github.com/mastermajisosse/flutterui_04/blob/master/assets/2.PNG)
+ ![alt text](https://github.com/mastermajisosse/flutterui_04/blob/master/assets/1.PNG)
 
 ## Getting Started
 
